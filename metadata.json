@@ -1,0 +1,5 @@
+{
+  "name": "HealthGuard Mapping System",
+  "description": "A comprehensive health surveillance and AI-powered disease prediction platform for citizens, ASHA workers, and government officials.",
+  "requestFramePermissions": ["geolocation"]
+}
